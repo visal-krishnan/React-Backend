@@ -1,0 +1,80 @@
+{
+  "students": [
+    {
+      "id": "3609",
+      "rollNumber": "23",
+      "name": "sharath",
+      "checkinTime": "10:55:15 am",
+      "checkoutTime": "10:56:46 am"
+    },
+    {
+      "id": "b6fc",
+      "rollNumber": "2",
+      "name": "kiran",
+      "checkinTime": "11:01:18 am",
+      "checkoutTime": "11:01:20 am"
+    },
+    {
+      "id": "af70",
+      "rollNumber": "45",
+      "name": "basiljoseph",
+      "checkinTime": "12:00:56 PM",
+      "checkoutTime": "12:01:02 PM"
+    },
+    {
+      "id": "f783",
+      "rollNumber": "19",
+      "name": "archana",
+      "checkinTime": "12:02:04 PM",
+      "checkoutTime": "12:02:06 PM"
+    },
+    {
+      "id": "e489",
+      "rollNumber": "55",
+      "name": "bharath",
+      "checkinTime": "12:02:58 PM",
+      "checkoutTime": "12:03:05 PM"
+    },
+    {
+      "id": "f518",
+      "rollNumber": "23",
+      "name": "aser",
+      "checkinTime": "1:00:50 PM",
+      "checkoutTime": "1:00:50 PM"
+    },
+    {
+      "id": "0cc4",
+      "rollNumber": "10",
+      "name": "testname",
+      "email": "testname@gmail.com",
+      "phoneNumber": "9801289391",
+      "checkinTime": "3:44:19 PM",
+      "checkoutTime": "3:44:20 PM"
+    },
+    {
+      "id": "40c8",
+      "rollNumber": "10",
+      "name": "testname1",
+      "email": "testname1@gmail.com",
+      "phoneNumber": "7980800123"
+    },
+    {
+      "id": "cc45",
+      "rollNumber": "31",
+      "name": "nametest",
+      "email": "nametest@gmail.com",
+      "phoneNumber": "9991234590",
+      "checkinTime": "3:55:51 PM",
+      "checkoutTime": "3:55:52 PM"
+    },
+    {
+      "id": "8026",
+      "rollNumber": "25",
+      "name": "helloname",
+      "email": "hello@gmail.com",
+      "phoneNumber": "231390123120",
+      "checkinTime": "5:52:35 PM",
+      "checkoutTime": "5:52:38 PM"
+    }
+  ]
+}
